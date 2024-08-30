@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderraoufidel&label=Profile%20views&color=0e75b6&style=flat" alt="abderraoufidel" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Everything**
 
-- 🌱 I’m currently learning **Video Editing**
+- 🌱 I’m currently learning **Life**
 
 - 👯 I’m looking to collaborate on **AI project**
 
