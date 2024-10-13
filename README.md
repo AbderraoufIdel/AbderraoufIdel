@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abderraouf Idel</h1>
-<h3 align="center">A Passionate Software Engineer from Algeria</h3>
+<h3 align="center">A Software Engineer from Algeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
