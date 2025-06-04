@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abderraoufidel@gmail.com**
 
-- ⚡ Fun fact **"It Goes On."**
+- ⚡ **"It Goes On."**
 <p align="left"> <a href="https://twitter.com/abderraoufidel" target="blank"><img src="https://img.shields.io/twitter/follow/abderraoufidel?logo=twitter&style=for-the-badge" alt="abderraoufidel" /></a> </p>
 
 <h1 align="center">• Connect with me:</h1>
