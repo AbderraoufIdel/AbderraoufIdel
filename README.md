@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderraoufidel&label=Profile%20views&color=0e75b6&style=flat" alt="abderraoufidel" /> </p>
 
-- 🔭 I’m currently working on **Algerian Digital Knowledge Platform.**
+- 🔭 I’m currently working on **Manager App.**
 
 - 🌱 I’m currently learning **DS&A**
 
