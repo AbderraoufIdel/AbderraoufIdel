@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abderraouf IDEL</h1>
+<h1 align="center">Abderraouf IDEL</h1>
 <h3 align="center"> Muslim | CS | M.D. | ⵣ</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
