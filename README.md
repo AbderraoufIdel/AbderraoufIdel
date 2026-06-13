@@ -5,17 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderraoufidel&label=Profile%20views&color=0e75b6&style=flat" alt="abderraoufidel" /> </p>
 
-- 🔭 I’m currently working on **Manager App.**
-
-- 🌱 I’m currently learning **DS&A**
-
-- 👯 I’m looking to collaborate on **AI project**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **abderraoufidel@gmail.com**
-
 - ⚡ **"Alhamdulillah."**
+
+- 📫 Email **abderraoufidel@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/idel.abderraouf.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderraoufidel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Abderraouf-Idel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abd_Erraouf_011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abderraoufidel) 
